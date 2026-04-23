@@ -1,5 +1,27 @@
-# Vue 3 + Vite
+# 🌦️ Weather App (Vue.js)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## 📌 Project Description
+This is a simple weather application built using Vue.js.  
+It allows users to search for any city and view real-time weather information using the OpenWeather API.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+---
+
+## 🚀 Features
+- Search weather by city name
+- Displays temperature and weather conditions
+- Responsive design (mobile + desktop)
+- Real-time API integration
+
+---
+
+## 🛠️ Technologies Used
+- Vue.js
+- JavaScript
+- CSS
+- OpenWeather API
+
+---
+
+## ⚙️ How to Run Locally
+
+### 1. Install dependencies
